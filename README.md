@@ -6,7 +6,7 @@ Building Digital Experiences with Code and Creativity
 
 "Welcome to my GitHub profile! I'm a computer and informatics engineering student with a passion for creating visually appealing and user-friendly websites. My projects showcase my dedication to crafting efficient solutions and highlight my growth as a developer. Let's connect and collaborate!" - made in ChatGPT, 2023
 
-* 🌍  I'm based in Aveiro, Aveiro, Portugal
+* 🌍  I'm based in Aveiro, Portugal
 * 🚀  I'm currently working on [UA](http://www.ua.pt)
 * 🧠  I'm learning everything, literally (but rigth now python, flutter, dart, flask and assembly)
 
