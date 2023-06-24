@@ -8,7 +8,7 @@ Building Digital Experiences with Code and Creativity
 
 * 🌍  I'm based in Aveiro, Portugal
 * 🚀  I'm currently working on [UA](http://www.ua.pt)
-* 🧠  I'm learning everything, literally (but rigth now python, flutter, dart, flask and assembly)
+* 🧠  I'm learning everything, literally
 
 ### Skills
 
