@@ -1,5 +1,4 @@
 # About me:
-<br clear="both">
 <h3 align="left">Hi 👋, my name is João Gaspar, and I am a Computer and Informatics Engineering student from Aveiro.</h3>
 
 ###
