@@ -13,7 +13,7 @@
 
 ###
 
-# asd:
+# Techs and Social Media:
 <img align="right" height="150" src="https://i.pinimg.com/originals/27/99/03/2799038678f56f8c488e479d28fb2258.gif"  />
 
 ###
