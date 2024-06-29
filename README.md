@@ -1,5 +1,5 @@
-<br clear="both">
 # About me:
+<br clear="both">
 <h3 align="left">Hi 👋, my name is João Gaspar, and I am a Computer and Informatics Engineering student from Aveiro.</h3>
 
 ###
@@ -78,3 +78,4 @@
 
 ###
 
+[![](https://visitcount.itsvg.in/api?id=RicardoNuno&icon=0&color=0)](https://visitcount.itsvg.in)
