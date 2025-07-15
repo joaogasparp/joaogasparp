@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm João Gaspar</h1>
-<h3 align="center">Currently a Master's student in Computer and Telematics Engineering from Aveiro.</h3>
+<h3 align="center">Master’s student in Computer and Telematics Engineering at the University of Aveiro</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaogasparp&" alt="joaogasparp" /></p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/27/99/03/2799038678f56f8c488e479d28fb2258.gif"  />
+<img align="center" height="150" src="https://i.pinimg.com/originals/27/99/03/2799038678f56f8c488e479d28fb2258.gif"  />
