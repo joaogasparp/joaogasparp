@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm João Gaspar</h1>
-<h3 align="center">Master’s student in Computer and Telematics Engineering at the University of Aveiro</h3>
+<h3 align="center">Currently a Master's student in Computer and Telematics Engineering from Aveiro.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,6 +12,6 @@
 
 <br>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogasparp&show_icons=true&locale=en&layout=compact" alt="joaogasparp" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogasparp&show_icons=true&locale=en" alt="joaogasparp" />
-<img align="right" height="150" src="https://i.pinimg.com/originals/27/99/03/2799038678f56f8c488e479d28fb2258.gif"  /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogasparp&show_icons=true&locale=en&layout=compact" alt="joaogasparp" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joaogasparp&show_icons=true&locale=en" alt="joaogasparp" /></p>
