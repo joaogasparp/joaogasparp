@@ -18,9 +18,6 @@
 	<a href="https://linkedin.com/in/joaogasparp">
 		<img src="https://img.shields.io/badge/LinkedIn-joaogasparp-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 	</a>
-	<a href="https://discord.gg/irin_eu">
-		<img src="https://img.shields.io/badge/Discord-irin__eu-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-	</a>
 </p>
 
 ## Tech stack
